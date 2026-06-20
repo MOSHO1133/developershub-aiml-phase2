@@ -183,11 +183,11 @@ Automatically tag free-text support tickets into categories using prompt enginee
 ## 📁 Repository Structure
 
 ```
-developershub-aiml-internship-advanced/
+developershub-aiml-phase2/
 │
-├── 📓 AdvTask1_BERT_News_Classifier.ipynb     # Transformer fine-tuning & deployment
-├── 📓 AdvTask2_Churn_Pipeline.ipynb           # Production ML pipeline
-├── 📓 AdvTask5_Auto_Tag_Tickets.ipynb         # LLM-based text classification
+├── 📓 Task1_BERT_News_Classifier.ipynb     # Transformer fine-tuning & deployment
+├── 📓 Task2_Churn_Pipeline.ipynb           # Production ML pipeline
+├── 📓 Task5_Auto_Tag_Tickets.ipynb         # LLM-based text classification
 │
 └── 📄 README.md                               # This file
 ```
